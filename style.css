@@ -1,0 +1,156 @@
+/*  
+Theme Name: Standard Theme
+Theme URI: http://hobnet.ru
+Description: Standard Clean Theme.
+Version: 1.0
+Author: VirusVIP
+Author URI: http://hobnet.ru/
+*/
+body, h1, h2, h3, h4, h5, h6, blockquote, p {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-family: 'Arial Narrow', Georgia, Sans-serif;
+	font-size: 36px;
+	padding: 0 0 10px;
+}
+body {
+	
+	margin: 0;
+	font-family: 'Arial Narrow', Helvetica, Georgia, Sans-serif;
+	font-size: 14px;
+	text-align: left;
+	vertical-align: top;
+	background: #ffffff;
+	color: #000000;
+}
+#wrapper {
+	margin: 0 auto 0 auto;
+	width: 750px;
+	text-align: left;
+}
+#header{
+	float: left;
+	width: 750px;
+}
+#container {
+	float: left;
+	width: 500px;
+}
+.post {
+	padding: 10px 0 10px 0;
+}
+.post h2 {
+	font-family: 'Arial Narrow', Georgia, Sans-serif;
+	font-size: 18px;
+}
+.entry {
+	line-height: 18px;
+}
+p.postmetadata {
+	border-top: 1px solid #ccc;
+	margin: 10px 0 0 0;
+}
+.navigation {
+	padding: 10px 0 0 0;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 18px;
+}
+.sidebar {
+	list-style-type: none;
+	float: left;
+	width: 230px;
+	background: #eeeeee;
+	margin: 0 0 0 10px;
+	padding: 0 0 0 10px;
+}
+.sidebar li h2{
+	list-style-type: none; 
+	font-family: 'Arial Narrow', Georgia, Sans-serif;
+	font-size: 14px;
+	margin: 0; 
+	padding: 0 10px 0 10px; 
+}
+.sidebar ul{
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0 10px 0 10px; 
+}
+.sidebar ul li{
+	padding: 10px 0 10px 0; 
+}
+.sidebar ul li h2{
+	list-style-type: none;
+	font-family: 'Arial Narrow', Georgia, Sans-serif;
+	font-size: 14px;
+}
+.sidebar ul ul li{
+ 	padding: 0;
+ 	line-height: 24px;
+ }
+#footer {
+	clear: both;
+	float: left;
+	width: 750px;
+	padding: 10px;
+}
+#footer p{
+	line-height: 18px;
+}
+.comments-template{
+	margin: 10px 0 0;
+	border-top: 1px solid #ccc;
+	padding: 10px 0 0;
+}
+
+.comments-template ol{
+	margin: 0;
+	padding: 0 0 15px;
+	list-style: none;
+}
+
+.comments-template ol li{
+	margin: 10px 0 0;
+	line-height: 18px;
+	padding: 0 0 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+.comments-template h2, .comments-template h3{
+	font-family: 'Arial Narrow', Georgia, Sans-serif;
+	font-size: 16px;
+}
+
+.commentmetadata{
+	font-size: 12px;
+}
+
+.comments-template p.nocomments{
+	padding: 0;
+}
+
+.comments-template textarea{
+	font-family: 'Arial Narrow', Helvetica, Georgia, Sans-serif;
+	font-size: 12px;
+}
+a, a:visited{
+		text-decoration: underline;
+		color: #336699;
+}
+a {
+		text-decoration: underline;
+		color: #336699;
+}
+a:visited {
+		text-decoration: underline;
+		color: #336699;
+}
+a:hover {
+	text-decoration: none;
+	color: #ff0000;
+}
+p {
+padding: 10px 0 0 0;
+}
